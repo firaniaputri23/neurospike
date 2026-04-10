@@ -1,6 +1,6 @@
 # NeuroSpike-BCI 🧠⚡
 
-![NeuroSpike Banner](./assets/banner.png)
+<img width="555" height="1010" alt="Image" src="https://github.com/user-attachments/assets/2256786c-2719-4a15-90c3-350a0edd8056" />
 
 > **Closed-Loop Spiking Neural Networks for Speech Rehabilitation.**
 
